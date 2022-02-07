@@ -1,0 +1,36 @@
+<!-- something wrong-->
+<!--jquery cdn link--><!--message send email part start-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!--smptjs.com link-->
+<script src="https://smtpjs.com/v3/smtp.js">
+</script>
+<script>
+    //send massage
+function sendmail(){
+var name = $('name').val();
+var email = $('email').val();
+var massage = $('massage').val();
+
+var  result = 'name : '+name+'<br>email : '+email+'<br>massage : '+massage;
+}
+
+email.send({
+    Host : "smtp.email.com",
+    Username : "michealalock111@gmail.com",
+    Password : "123mcl}}A",
+    To : 'deeruapalok25051996@gmail.com',
+    From : "michealalock111@gmail.com",
+    Subject : "Now mail on contact from :"+name,
+    Body: result;
+}).then(
+massage => {
+    if(massage == 'ok'){
+        alert('mail send successfull')
+    }else{
+        console.error(massage);
+        alert('this is error at sending message.')
+    }
+    }
+);
+</script>
+<!--end mail send part-->
