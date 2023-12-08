@@ -73,6 +73,7 @@ p{
     padding: 0.5rem 1rem;
     text-align: center;
     font-weight: bold;
+    font-size: 18px;
 }
 #header .navbar-nav .nav-item .nav-link:hover,
 #header .navbar-nav .nav-item .nav-link.active{
