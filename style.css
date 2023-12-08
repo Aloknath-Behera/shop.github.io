@@ -16,6 +16,10 @@
     --text-danger: #f63440;
     --text-gray: #aaa;
     --text-dark-gray: #777;
+    --bg-dark-brown: #e6dde4;
+}
+.bg-dark-brown{
+    background-color: var(--bg-dark-brown);
 }
 body{
     font-family: var(--primary-font);
