@@ -447,7 +447,7 @@ p{
 }
 /*contact css*/
 .contact{
-    padding: 9rem 8rem;
+    padding: 9rem 1rem;
     background-color: var(--bg-light-white);
 }
 .contact h4{
