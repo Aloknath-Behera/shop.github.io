@@ -69,9 +69,10 @@ p{
 
 }
 #header .navbar-nav .nav-item .nav-link{
-    color: var(--text-black);
+    color: var(--text-white);
     padding: 0.5rem 1rem;
     text-align: center;
+    font-weight: bold;
 }
 #header .navbar-nav .nav-item .nav-link:hover,
 #header .navbar-nav .nav-item .nav-link.active{
