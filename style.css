@@ -82,7 +82,7 @@ p{
     color: var(--text-danger);
 }
 
-
+.navbar-brand{margin-right: 0px !important;}
 #heading .navbar-toggler:focus{
     box-shadow: none;
 }
