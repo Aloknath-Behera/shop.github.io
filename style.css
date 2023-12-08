@@ -16,7 +16,7 @@
     --text-danger: #f63440;
     --text-gray: #aaa;
     --text-dark-gray: #777;
-    --bg-dark-brown: #d1c1cc;
+    --bg-dark-brown: #685262;
 }
 .bg-dark-brown{
     background-color: var(--bg-dark-brown);
