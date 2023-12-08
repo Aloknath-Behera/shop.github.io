@@ -206,7 +206,7 @@ p{
 }
 /*product css*/
 .products{
-    padding-top: 0.5rem;
+    padding-top: 9rem;
 }
 .headline h2::before{
     content: '';
@@ -319,7 +319,7 @@ p{
     font-size: 1.70rem;
 }
 .special{
-    padding: 5rem 0;
+    padding: 9rem 0;
     background: var(--bg-light-white);
 }
 .special .countdown-container{
@@ -389,7 +389,7 @@ p{
 }
 /* testimonial css*/
 .testimonial{
-    padding: 5rem 0.8rem;
+    padding: 9rem 0.8rem;
 }
 .testimonial .testimonial-wrapper{
     box-shadow: 0 0 0.563rem 0 rgb(0, 0, 0/5%);
@@ -447,7 +447,7 @@ p{
 }
 /*contact css*/
 .contact{
-    padding: 3rem;
+    padding: 9rem 8rem;
     background-color: var(--bg-light-white);
 }
 .contact h4{
