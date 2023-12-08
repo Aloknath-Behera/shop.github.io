@@ -16,7 +16,7 @@
     --text-danger: #f63440;
     --text-gray: #aaa;
     --text-dark-gray: #777;
-    --bg-dark-brown: #e6dde4;
+    --bg-dark-brown: #d1c1cc;
 }
 .bg-dark-brown{
     background-color: var(--bg-dark-brown);
@@ -61,8 +61,8 @@ p{
 }
 /*navigation css*/
 #logo{
-    height: 20%;
-    width: 20%;
+    height: 100px;
+    width: auto;
 }
 #header .fixed-top{
     box-shadow: 0 0.125rem 0.675rem rgb(0 0 0 / 5%);
