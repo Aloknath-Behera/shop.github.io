@@ -107,7 +107,7 @@
     }
     /*special css*/
     .special .special-img span, img{
-        height: 600px;
+/*         height: 600px; */
     }
 }
 
