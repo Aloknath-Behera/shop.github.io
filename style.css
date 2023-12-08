@@ -91,6 +91,9 @@ p{
     min-height: 600px;
     position: relative;
 }
+.home .home-banner-0{
+    background-image: url('images/qshop-banner.png');
+}
 .home .home-banner-1{
     background-image: url('images/Asian_Gray_background_Belly_Jeans_T-shirt_519723_3840x2400.jpg');
 }
