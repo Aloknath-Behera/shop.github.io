@@ -54,10 +54,12 @@ p{
 .quick{
     font-size: 1.5rem;
     color: yellowgreen;
+    display: none;
 }
 .shop{
     font-size: 1.7rem;
     color: var(--bg-danger);
+    display: none;
 }
 /*navigation css*/
 #logo{
